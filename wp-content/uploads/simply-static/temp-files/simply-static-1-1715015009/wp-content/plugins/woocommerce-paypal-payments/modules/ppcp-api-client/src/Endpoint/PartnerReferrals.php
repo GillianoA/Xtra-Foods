@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;WooCommerce\PayPalCommerce\ApiClient\Endpoint\RequestTrait&quot; not found in <b>C:\xampp\htdocs\Xtra-Foods\wp-content\plugins\woocommerce-paypal-payments\modules\ppcp-api-client\src\Endpoint\PartnerReferrals.php</b> on line <b>20</b><br>

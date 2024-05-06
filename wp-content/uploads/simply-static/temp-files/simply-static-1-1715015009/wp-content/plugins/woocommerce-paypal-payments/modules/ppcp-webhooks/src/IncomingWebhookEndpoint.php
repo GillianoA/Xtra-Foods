@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;WooCommerce\PayPalCommerce\Webhooks\Handler\RequestHandlerTrait&quot; not found in <b>C:\xampp\htdocs\Xtra-Foods\wp-content\plugins\woocommerce-paypal-payments\modules\ppcp-webhooks\src\IncomingWebhookEndpoint.php</b> on line <b>26</b><br>

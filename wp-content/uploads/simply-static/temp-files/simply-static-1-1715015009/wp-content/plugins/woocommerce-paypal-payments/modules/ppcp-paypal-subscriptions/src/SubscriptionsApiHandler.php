@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;WooCommerce\PayPalCommerce\ApiClient\Helper\ItemTrait&quot; not found in <b>C:\xampp\htdocs\Xtra-Foods\wp-content\plugins\woocommerce-paypal-payments\modules\ppcp-paypal-subscriptions\src\SubscriptionsApiHandler.php</b> on line <b>27</b><br>

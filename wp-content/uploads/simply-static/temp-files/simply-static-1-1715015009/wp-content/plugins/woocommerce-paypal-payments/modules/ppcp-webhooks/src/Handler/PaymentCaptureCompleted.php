@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;WooCommerce\PayPalCommerce\WcGateway\Processor\TransactionIdHandlingTrait&quot; not found in <b>C:\xampp\htdocs\Xtra-Foods\wp-content\plugins\woocommerce-paypal-payments\modules\ppcp-webhooks\src\Handler\PaymentCaptureCompleted.php</b> on line <b>23</b><br>

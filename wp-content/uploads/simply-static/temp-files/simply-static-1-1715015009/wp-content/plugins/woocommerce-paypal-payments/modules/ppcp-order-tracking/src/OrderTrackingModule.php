@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;WooCommerce\PayPalCommerce\OrderTracking\TrackingAvailabilityTrait&quot; not found in <b>C:\xampp\htdocs\Xtra-Foods\wp-content\plugins\woocommerce-paypal-payments\modules\ppcp-order-tracking\src\OrderTrackingModule.php</b> on line <b>25</b><br>

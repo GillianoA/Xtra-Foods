@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>cheese &#8211; Xtra Foods</title>
+	<atom:link href="https://gillianoa.github.io/Xtra-Foods/product-tag/cheese/feed/" rel="self" type="application/rss+xml" />
+	<link>https://gillianoa.github.io/Xtra-Foods</link>
+	<description>Where you always get XTRA for less</description>
+	<lastBuildDate>Sun, 05 May 2024 22:00:29 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>https://gillianoa.github.io/Xtra-Foods/wp-content/uploads/2024/05/flat-icon-1.png</url>
+	<title>cheese &#8211; Xtra Foods</title>
+	<link>https://gillianoa.github.io/Xtra-Foods</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Cheese (250g)</title>
+		<link>https://gillianoa.github.io/Xtra-Foods/product/cheese-250g/</link>
+					<comments>https://gillianoa.github.io/Xtra-Foods/product/cheese-250g/#respond</comments>
+		
+		<dc:creator><![CDATA[GillianoA]]></dc:creator>
+		<pubDate>Sun, 05 May 2024 22:00:29 +0000</pubDate>
+				<guid isPermaLink="false">https://gillianoa.github.io/Xtra-Foods/?post_type=product#038;p=131</guid>
+
+					<description><![CDATA[Rich and tangy cheese, great for snacking or melting over pasta.]]></description>
+										<content:encoded><![CDATA[<p>Rich and tangy cheese, great for snacking or melting over pasta.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://gillianoa.github.io/Xtra-Foods/product/cheese-250g/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

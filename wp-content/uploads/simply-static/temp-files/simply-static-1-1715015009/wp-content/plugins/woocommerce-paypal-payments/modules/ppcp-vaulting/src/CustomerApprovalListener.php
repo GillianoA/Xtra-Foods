@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;WooCommerce\PayPalCommerce\WcSubscriptions\FreeTrialHandlerTrait&quot; not found in <b>C:\xampp\htdocs\Xtra-Foods\wp-content\plugins\woocommerce-paypal-payments\modules\ppcp-vaulting\src\CustomerApprovalListener.php</b> on line <b>21</b><br>

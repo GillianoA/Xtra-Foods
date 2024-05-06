@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Automattic\WooCommerce\Internal\Traits\ScriptDebug&quot; not found in <b>C:\xampp\htdocs\Xtra-Foods\wp-content\plugins\woocommerce\src\Internal\Integrations\WPConsentAPI.php</b> on line <b>15</b><br>
