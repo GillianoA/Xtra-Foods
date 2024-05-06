@@ -1,2 +1,0 @@
-<br>
-<b>Fatal error</b>:  Trait &quot;WooCommerce\PayPalCommerce\WcGateway\Processor\PaymentsStatusHandlingTrait&quot; not found in <b>C:\xampp\htdocs\Xtra-Foods\wp-content\plugins\woocommerce-paypal-payments\modules\ppcp-wc-gateway\src\Processor\AuthorizedPaymentsProcessor.php</b> on line <b>34</b><br>

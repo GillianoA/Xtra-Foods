@@ -1,2 +1,0 @@
-<br>
-<b>Fatal error</b>:  Trait &quot;WooCommerce\PayPalCommerce\Button\Helper\ContextTrait&quot; not found in <b>C:\xampp\htdocs\Xtra-Foods\wp-content\plugins\woocommerce-paypal-payments\modules\ppcp-session\src\Cancellation\CancelController.php</b> on line <b>18</b><br>

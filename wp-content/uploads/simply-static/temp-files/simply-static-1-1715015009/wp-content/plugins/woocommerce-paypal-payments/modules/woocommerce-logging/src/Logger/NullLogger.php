@@ -1,2 +1,0 @@
-<br>
-<b>Fatal error</b>:  Trait &quot;Psr\Log\LoggerTrait&quot; not found in <b>C:\xampp\htdocs\Xtra-Foods\wp-content\plugins\woocommerce-paypal-payments\modules\woocommerce-logging\src\Logger\NullLogger.php</b> on line <b>19</b><br>

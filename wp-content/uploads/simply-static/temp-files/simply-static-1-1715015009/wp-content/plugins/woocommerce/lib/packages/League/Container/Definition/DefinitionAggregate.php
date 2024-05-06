@@ -1,2 +1,0 @@
-<br>
-<b>Fatal error</b>:  Trait &quot;Automattic\WooCommerce\Vendor\League\Container\ContainerAwareTrait&quot; not found in <b>C:\xampp\htdocs\Xtra-Foods\wp-content\plugins\woocommerce\lib\packages\League\Container\Definition\DefinitionAggregate.php</b> on line <b>9</b><br>

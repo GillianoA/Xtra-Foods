@@ -1,2 +1,0 @@
-<br>
-<b>Fatal error</b>:  Trait &quot;WooCommerce\PayPalCommerce\WcGateway\Processor\OrderMetaTrait&quot; not found in <b>C:\xampp\htdocs\Xtra-Foods\wp-content\plugins\woocommerce-paypal-payments\modules\ppcp-wc-gateway\src\Processor\OrderProcessor.php</b> on line <b>38</b><br>

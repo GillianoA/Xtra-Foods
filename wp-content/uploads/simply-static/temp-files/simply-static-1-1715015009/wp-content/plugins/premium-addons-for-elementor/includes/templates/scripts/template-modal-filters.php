@@ -1,1 +1,0 @@
-<div id="premium-modal-filters-container"></div>

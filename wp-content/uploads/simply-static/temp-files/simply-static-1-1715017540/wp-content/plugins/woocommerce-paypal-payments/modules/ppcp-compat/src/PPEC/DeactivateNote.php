@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Automattic\WooCommerce\Admin\Notes\NoteTraits&quot; not found in <b>C:\xampp\htdocs\Xtra-Foods\wp-content\plugins\woocommerce-paypal-payments\modules\ppcp-compat\src\PPEC\DeactivateNote.php</b> on line <b>19</b><br>

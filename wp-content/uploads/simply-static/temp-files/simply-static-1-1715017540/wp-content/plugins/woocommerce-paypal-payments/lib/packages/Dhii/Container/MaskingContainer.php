@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;WooCommerce\PayPalCommerce\Vendor\Dhii\Container\Util\StringTranslatingTrait&quot; not found in <b>C:\xampp\htdocs\Xtra-Foods\wp-content\plugins\woocommerce-paypal-payments\lib\packages\Dhii\Container\MaskingContainer.php</b> on line <b>19</b><br>

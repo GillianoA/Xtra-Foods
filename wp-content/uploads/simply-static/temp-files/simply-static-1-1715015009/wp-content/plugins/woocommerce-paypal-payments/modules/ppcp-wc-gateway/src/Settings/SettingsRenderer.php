@@ -1,2 +1,0 @@
-<br>
-<b>Fatal error</b>:  Trait &quot;WooCommerce\PayPalCommerce\WcGateway\Settings\PageMatcherTrait&quot; not found in <b>C:\xampp\htdocs\Xtra-Foods\wp-content\plugins\woocommerce-paypal-payments\modules\ppcp-wc-gateway\src\Settings\SettingsRenderer.php</b> on line <b>25</b><br>
